@@ -30,7 +30,7 @@ st.set_page_config(
 
 # print('Welcome to the ArXiv summarization project')
 
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = '?'
 
 
 def file_preprocess(filepath):
